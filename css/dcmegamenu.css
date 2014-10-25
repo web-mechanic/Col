@@ -1,0 +1,28 @@
+#menu li ul {
+	display: none;
+}
+#menu .sub ul {
+	display: block;
+}
+/* Mega Menu Styles */
+.mega-menu ul li ul {
+	display: none;
+}
+.mega-menu .sub {
+	display: none;
+}
+.mega-menu .sub ul {
+	display: block;
+}
+#mega-menu-3 li ul {
+	display: none;
+}
+#mega-menu-3 .sub ul {
+	display: block;
+}
+#mega-menu-1 li ul {
+	display: none;
+}
+#mega-menu-1 .sub ul {
+	display: block;
+}
